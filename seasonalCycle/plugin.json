@@ -1,0 +1,5 @@
+[{
+    "id": "$seasonalcycles00",
+    "type": "script",
+    "script": "script.lua"
+}]
